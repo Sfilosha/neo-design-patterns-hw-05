@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+  <files>54</files>
+  <directories>5</directories>
+  <totalSize>8469671</totalSize>
+  <extensions>
+    <extension name=".jpg" count="22"/>
+    <extension name=".png" count="28"/>
+    <extension name=".svg" count="1"/>
+    <extension name=".jpeg" count="2"/>
+    <extension name=".PNG" count="1"/>
+  </extensions>
+</report>

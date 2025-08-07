@@ -1,0 +1,17 @@
+{
+  "name": "directory-analyzer",
+  "version": "1.0.0",
+  "description": "Directory analysis utility using Facade and Adapter patterns",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node main.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  }
+} 
