@@ -7,11 +7,20 @@
     "build": "tsc",
     "start": "ts-node main.ts"
   },
-  "dependencies": {
-    "ts-node": "^10.9.1",
-    "typescript": "^5.0.0"
-  },
   "devDependencies": {
-    "@types/node": "^20.0.0"
-  }
-} 
+    "@types/node": "^20.19.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sfilosha/neo-design-patterns-hw-05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sfilosha/neo-design-patterns-hw-05/issues"
+  },
+  "homepage": "https://github.com/Sfilosha/neo-design-patterns-hw-05#readme"
+}

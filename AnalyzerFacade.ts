@@ -12,6 +12,7 @@ export class AnalyzerFacade {
   }
 
   generateReport(path: string): string {
-    // TODO
+    const report = this.analyzer.analyze(path);
+    return this.adapter.export(report);
   }
 }
